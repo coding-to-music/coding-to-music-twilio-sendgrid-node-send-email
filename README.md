@@ -2,12 +2,11 @@
 
 https://app.sendgrid.com/guide/integrate/langs/nodejs
 
+https://github.com/coding-to-music/twilio-sendgrid-node-send-email
 
+## How to send email using Node.js
 
-Verify
-
-How to send email using Node.js
-Make sure you have the prerequisites
+### Make sure you have the prerequisites
 Our library requires Node.js version 0.10, 0.12, or 4.
 
 ## Create an API key
