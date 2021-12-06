@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.env
+
+
+/.cache
+/build
+/public/build
+
+/prisma/dev.db
+.env
+
+.vscodesendgrid.env
+
+sendgrid.env
